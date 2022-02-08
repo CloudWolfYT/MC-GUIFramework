@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/ui/root",
+  "textures": {
+    "texture": "custom/ui/menu"
+  }
+}

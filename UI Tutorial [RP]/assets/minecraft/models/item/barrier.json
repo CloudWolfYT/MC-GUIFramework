@@ -1,0 +1,12 @@
+{
+        "parent": "item/generated",
+        "textures": {
+                "layer0": "item/barrier"
+	},
+	"overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/empty"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/ui/menu"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/ui/shop"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/ui/vend"}
+    ]
+}

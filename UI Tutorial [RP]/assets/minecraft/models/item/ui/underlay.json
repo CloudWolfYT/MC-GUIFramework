@@ -1,0 +1,27 @@
+{
+	"textures": {
+		"texture": "custom/ui/menu"
+	},
+	"gui_light":"front",
+	"elements": [ 	 
+		{
+			"__comment": "PlaneX1",
+			"from": [ 7.25, 0, -13.25 ],
+			"to": [ 7.251, 18.25, 30.5 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ -70, 21, -1 ],
+			"scale":  [ 0.0001, 3.985, 3.985 ]
+		},
+		"ground" :{
+			"scale": [0,0,0]
+		}
+	}
+}
