@@ -1,8 +1,9 @@
-# Shader Selector (Minecraft Resource Pack)
+# Minecraft GUI Framework
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/VzjQ7kFKqD)
 [![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=2RvUduq4L4Q)
+[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/MC-GUIFramework/total.svg)](https://github.com/CloudWolfYT/MC-GUIFramework/releases)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="images/social.png"
      alt="Social Image"
@@ -56,8 +57,7 @@ In game, making the player have an item in their center crosshair will send the 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/CloudWolfYT"><img src="https://avatars.githubusercontent.com/u/64243799?v=4" width="100px;" alt=""/><br /><sub><b>Cloud Wolf</b></sub></a><br /><a href="#" title="Project Creator">🔨</a></td>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/0" width="100px;" alt=""/><br /><sub><b>The Der Discohund</b></sub></a><br /><a href="#" title="Theory Contributor">💡</a></td>
-    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/20506548?v=4" width="100px;" alt=""/><br /><sub><b>RitikShah</b></sub></a><br /><a href="#" title="Theory Contributor">💡</a></td>
+    <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/17352009?v=4" width="100px;" alt=""/><br /><sub><b>Misode</b></sub></a><br /><a href="#" title="Invisible Minecarts">💡</a></td>
   </tr>
 </table>
 
