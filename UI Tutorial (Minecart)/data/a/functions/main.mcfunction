@@ -1,4 +1,5 @@
 ## spawn ui container if holding correct item
+scoreboard players add @a ui.id 0
 execute as @a[scores={ui.id=0},nbt={SelectedItem:{tag:{ui:1b}}}] at @s run function a:ui/spawn
 execute as @a[scores={ui.id=1..}] unless data entity @s SelectedItem.tag.ui run function a:ui/close
 
