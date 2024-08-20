@@ -20,7 +20,7 @@ The resource pack provides you with assets for building your own GUIs to use wit
 ## How to Use 📝
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-The main modifications I suggest is to add / remove pages under functions/ui/refresh in the lines that check for the ui.page score. Those lines simply redirect to the page it is on. Then I suggest adding / removing the folders in the pages folder and forming commands similar to the provided examples, supplying it with logic for what items to return, what items are input / output and what slots are meant to be buttons. The youtube video covers how to do this quite extensively.
+To make some UI's, simply add a folder under ui:menu with the name of your menu. Then add 1 folder per page of the menu, with each folder containing a "mask" and "open" function. Any item placed in the mask with custom data of ui_item.cmd will run that command, so in the demo the command to go to another page is just the "function ui:menu/(path to page)/open". The youtube video covers how to do this quite extensively.
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
