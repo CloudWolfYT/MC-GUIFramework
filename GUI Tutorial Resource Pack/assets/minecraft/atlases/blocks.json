@@ -1,0 +1,13 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "entity/chest/normal"
+        },
+        {
+            "type": "directory",
+            "source": "demo",
+            "prefix": "demo/"
+        }
+    ]
+}
