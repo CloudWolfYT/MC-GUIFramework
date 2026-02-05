@@ -1,6 +1,15 @@
- {
-       "pack": {
-           "pack_format": 8,
-           "description": "Test"
-       }
-   }
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Test",
+    "supported_formats": [
+      48,
+      94
+    ],
+    "min_format": [
+      48,
+      1
+    ],
+    "max_format": 94
+  }
+}
