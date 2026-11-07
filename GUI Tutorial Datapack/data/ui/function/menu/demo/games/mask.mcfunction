@@ -1,5 +1,0 @@
-data modify storage ui mask set value [\
-    {Slot:0b,id:"minecraft:barrier",components:{"minecraft:item_name":{text:"BACK",italic:false},"minecraft:custom_data":{ui_item:{process:{run_command:"function ui:menu/demo/root/open"}}}}},\
-    {Slot:11b,id:"minecraft:red_wool",components:{"minecraft:item_name":{text:"PlayGameA",italic:false},"minecraft:custom_data":{ui_item:{process:{run_command:"function ui:menu/demo/games/goto_a"}}}}},\
-    {Slot:13b,id:"minecraft:blue_wool",components:{"minecraft:item_name":{text:"PlayGameB",italic:false},"minecraft:custom_data":{ui_item:{process:{run_command:"function ui:menu/demo/games/goto_b"}}}}},\
-    {Slot:15b,id:"minecraft:yellow_wool",components:{"minecraft:item_name":{text:"PlayGameC",italic:false},"minecraft:custom_data":{ui_item:{process:{run_command:"function ui:menu/demo/games/goto_c"}}}}}]

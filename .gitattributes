@@ -1,2 +1,39 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Normalize line endings by default
+* text=auto eol=lf
+
+# Scripts must stay LF (a CRLF breaks the shebang on Linux)
+*.sh            text eol=lf
+gradlew         text eol=lf
+
+# Windows-only scripts
+*.bat           text eol=crlf
+*.cmd           text eol=crlf
+
+# Minecraft datapack / resourcepack text files
+*.mcfunction    text eol=lf
+*.mcmeta        text eol=lf
+*.json          text eol=lf
+*.nbt.json      text eol=lf
+
+# Source and config
+*.java          text eol=lf
+*.gradle        text eol=lf
+*.properties    text eol=lf
+*.yml           text eol=lf
+*.yaml          text eol=lf
+*.md            text eol=lf
+*.py            text eol=lf
+*.html          text eol=lf
+
+# Binary files (never touch or diff)
+*.png           binary
+*.jpg           binary
+*.jpeg          binary
+*.gif           binary
+*.ogg           binary
+*.zip           binary
+*.jar           binary
+*.nbt           binary
+*.dat           binary
+*.mca           binary
+*.mcfunction    linguist-language=mcfunctiond
