@@ -2,6 +2,7 @@
 scoreboard players operation #search ui.id = @s ui.id
 execute as @a if score @s ui.id = #search ui.id run clear @s *[minecraft:custom_data~{ui_item:{}}]
 
+
 # Mark this as chest-minecart UI
 scoreboard players set .type ui 1
 

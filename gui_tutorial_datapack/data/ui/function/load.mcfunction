@@ -1,5 +1,6 @@
 scoreboard objectives add ui dummy
 scoreboard objectives add ui.id dummy
+scoreboard objectives add ui.drop minecraft.custom:minecraft.drop
 
 # Global unique ID counter for linking players <-> UI entities
 execute unless score .global ui.id matches -2147483648.. run scoreboard players set .global ui.id 0

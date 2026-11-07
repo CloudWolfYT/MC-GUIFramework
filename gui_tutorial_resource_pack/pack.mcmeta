@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "description": [
+            {
+                "text": "GUI Tutorial",
+                "color": "gold",
+                "bold": true
+            },
+            {
+                "text": " by Cloud_Wolf",
+                "color": "aqua",
+                "bold": false
+            }
+        ]
+    }
+}

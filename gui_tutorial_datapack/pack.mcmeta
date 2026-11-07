@@ -3,11 +3,11 @@
     "description": [
       {"text": "GUI Tutorial", "color": "gold", "bold": true},
       {"text": " Multiplayer Fixed", "color": "green"},
-      {"text": "\nby Cloud_Wolf (fixed)", "color": "aqua"}
+      {"text": "\nby Cloud_Wolf", "color": "aqua"}
     ],
     "pack_format": 48,
-    "supported_formats": [48, 122],
+    "supported_formats": [48, 57],
     "min_format": 48,
-    "max_format": 122
+    "max_format": 57
   }
 }
