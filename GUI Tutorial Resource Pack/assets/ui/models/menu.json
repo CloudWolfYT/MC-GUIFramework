@@ -1,6 +1,0 @@
-{
-  "parent": "ui:overlay",
-  "textures": {
-    "texture": "ui:demo/menu"
-  }
-}

@@ -1,1 +1,0 @@
-data modify storage ui mask set value [{Slot:13b,id:"minecraft:diamond_sword",components:{"minecraft:item_name":{text:"Games",italic:false},"minecraft:custom_data":{ui_item:{process:{run_command:"function ui:menu/demo/games/open"}}}}},{Slot:26b,id:"minecraft:barrier",components:{"minecraft:custom_model_data":2,"minecraft:custom_data":{ui_item:{empty:1b}}}}]
